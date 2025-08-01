@@ -73,4 +73,3 @@ A Python-based automated vulnerability scanner that helps web developers and sec
 
 
 
-I prefer this response
